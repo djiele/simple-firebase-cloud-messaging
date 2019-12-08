@@ -1,0 +1,24 @@
+{
+    "name": "djiele/simple-fire-cloud-messaging",
+    "description": "Send webpush notification, managage subscription to topics and groups",
+    "type": "library",
+    "keywords": [
+        "firebase", "fcm", "Firebase cloud messaging", "messaging", "notification", "push notification"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "djiele",
+            "homepage": "https://www.djiele.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Djiele\\": "src/Djiele/"
+        }
+    }
+}
