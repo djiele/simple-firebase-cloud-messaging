@@ -1,5 +1,5 @@
 # Firebase Cloud Messaging Library
-Another FCM (Firebase Cloud Messaging), light and easy to use. 
+Another FCM (Firebase Cloud Messaging) library, light and easy to use. 
 
 Note: this library wrap the legacy Firebase HTTP API, i don't know when it will become obsolete.
 
@@ -8,7 +8,7 @@ Note: this library wrap the legacy Firebase HTTP API, i don't know when it will 
 You can install the package via composer:
 
 ```
-composer require djiele/simple-fire-cloud-messaging
+composer require djiele/simple-fire-cloud-messaging "dev-master"
 ```
 
 ##### Simple usage
